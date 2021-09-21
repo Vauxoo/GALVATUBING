@@ -1,0 +1,4 @@
+[submodule "ticoelectronics"]
+	path = ticoelectronics
+	url = git@git.vauxoo.com:vauxoo/ticoelectronics.git
+	branch = 14.0
