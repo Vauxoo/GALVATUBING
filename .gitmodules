@@ -10,3 +10,7 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 15.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 15.0
