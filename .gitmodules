@@ -14,3 +14,7 @@
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
 	branch = 15.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 15.0
